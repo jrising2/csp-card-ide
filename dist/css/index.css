@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
+
+.code-styles{
+    font-size: .85em;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+.playingCard{
+    /*padding: 2em;*/
+    margin-right: 2em;
+}
+
+#cardHolder{
+    padding: 1em 10em 1em 10em;
+}
